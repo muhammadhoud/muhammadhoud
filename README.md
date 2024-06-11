@@ -1,4 +1,4 @@
-![logo](https://github.com/muhammadhoud/muhammadhoud/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/muhammadhoud/muhammadhoud/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Muhammad Houd</h1>
 <h3 align="center">A passionate Cloud Architecture Learner from Pakistan</h3>
 
