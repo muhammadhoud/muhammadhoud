@@ -1,4 +1,4 @@
-![logo](Muhammad Houd's Banner](https://github.com/muhammadhoud/muhammadhoud/blob/main/Linkedin%20Covers%20(1).jpg)
+![logo](https://github.com/muhammadhoud/muhammadhoud/blob/main/Linkedin%20Covers%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Houd</h1>
 <h3 align="center">A passionate Project Manager of Cloud Architecture and Machine Learning from Pakistan</h3>
 
