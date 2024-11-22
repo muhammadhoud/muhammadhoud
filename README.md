@@ -1,7 +1,7 @@
 
 <div align="center" style="background: linear-gradient(to right, #6c5ce7, #000000); padding: 20px; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FFFFFF;">
   <!-- Banner -->
-  <img src="" alt="https://github.com/muhammadhoud/muhammadhoud/blob/main/Linkedin%20Covers%20(1).jpg" style="width: 100%; border-radius: 10px; margin-bottom: 20px; transition: transform 0.3s ease-in-out;">
+  <img src="https://github.com/muhammadhoud/muhammadhoud/blob/main/Linkedin%20Covers%20(1).jpg" alt="Muhammad Houd's Banner" style="width: 100%; border-radius: 10px; margin-bottom: 20px; transition: transform 0.3s ease-in-out;">
 
   <h1 style="font-size: 2.5rem; font-weight: bold;">Hi 👋, I'm Muhammad Houd</h1>
   <h3 style="font-size: 1.5rem; color: #a29bfe;">A Passionate Cloud Architecture Learner from Pakistan</h3>
