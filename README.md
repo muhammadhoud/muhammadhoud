@@ -27,7 +27,7 @@ AI Engineer specializing in **Generative AI, NLP**, and production ML systems. I
 - **FYP:** AI-powered Programming TA using LLMs, OCR and VLMs
 - Open to **AI/ML roles, Research and Remote opportunities**
 - Passionate about building **responsible, scalable AI systems**
-- Experienced with **AWS · Azure · GCP · Linux · Docker**
+- Experienced with **AI · ML · NLP · GenAi · Deep Learning · Linux · Docker**
 - **mhoud131@gmail.com**
 
 <br clear="right"/>
